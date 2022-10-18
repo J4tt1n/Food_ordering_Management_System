@@ -1,0 +1,11 @@
+User system-
+	login page
+	canteen choice (arasan/fc)
+	menu
+	profile page(user info/password change)
+	
+
+Admin-
+	login page
+	orderes placed
+	menu update/add/delete
